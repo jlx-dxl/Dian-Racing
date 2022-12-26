@@ -1,0 +1,20 @@
+Added Component: Designator=TP1(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(TP)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Volt Pin=TP1-0
+Added Pin To Net: NetName=NetR11_1 Pin=TP2-0
+Added Pin To Net: NetName=NetR12_1 Pin=TP4-0
+Added Pin To Net: NetName=VCC Pin=TP5-0
+Added Member To Class: ClassName=Voltage_60_Measure Member=Component TP1 TP
+Added Member To Class: ClassName=Voltage_60_Measure Member=Component TP2 TP
+Added Member To Class: ClassName=Voltage_60_Measure Member=Component TP3 TP
+Added Member To Class: ClassName=Voltage_60_Measure Member=Component TP4 TP
+Added Member To Class: ClassName=Voltage_60_Measure Member=Component TP5 TP
+Added Room: Name=Voltage_60_Measure

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=TP5-0
+Removed Member From Class: ClassName=Voltage_60_Measure Member=TP5
+Added Room: Name=Voltage_60_Measure

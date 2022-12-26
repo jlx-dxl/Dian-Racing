@@ -1,0 +1,5 @@
+Added Component: Designator=TP3(TP)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=TP3-0
+Added Member To Class: ClassName=Voltage_60_Measure Member=Component TP3 TP
+Added Room: Name=Voltage_60_Measure
